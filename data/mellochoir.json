@@ -1,0 +1,18 @@
+{
+    "id": 120674376,
+    "name": "Mellochoir",
+    "author": "SamYT124",
+    "creators": ["SamYT124"],
+    "verifier": "SamYT124",
+    "verification": "https://youtu.be/ayQFD7zBxo8?si=2wxrY6f9Va0aiARD",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
