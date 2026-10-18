@@ -5,14 +5,8 @@
     "creators": ["chasm"],
     "verifier": "chasm",
     "verification": "https://youtu.be/xSYqD4wsRzM",
-    "percentToQualify": 75,
+    "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "sample",
-            "link": "https://www.youtube.com/",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
