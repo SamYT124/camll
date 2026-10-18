@@ -123,8 +123,15 @@ export default {
                     <p>
                         Cheat indicator must be shown at the endscreen if mods are present
                     </p>
+                    <h3>Level Requirements</h3>
                     <p>
                         Level must have some form of deco and must be medium to XL (30 seconds upward) length to be placed on the list
+                    </p>
+                    <p>
+                        Level must have have a verification video to be placed on the list
+                    </p>
+                    <p>
+                        Once a level gets placed, the verification video must not be deleted
                     </p>
                 </div>
             </div>
