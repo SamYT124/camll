@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "SamYT124",
+            "link": "https://youtu.be/u219hNe7oNs?si=mcbvAks-_ZRjFjSO",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
