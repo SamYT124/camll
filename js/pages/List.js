@@ -124,7 +124,7 @@ export default {
                         Cheat indicator must be shown at the endscreen if mods are present
                     </p>
                     <p>
-                        Level must have some form of deco (1.0 style is allowed) and be medium-XL length to be placed on the list
+                        Level must have some form of deco and must be medium to XL (30 seconds upward) length to be placed on the list
                     </p>
                 </div>
             </div>
