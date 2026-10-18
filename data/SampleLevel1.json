@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "test",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 120129158,
+    "name": "Pixel Prism",
+    "author": "chasm",
+    "creators": ["chasm"],
+    "verifier": "chasm",
+    "verification": "https://youtu.be/xSYqD4wsRzM",
+    "percentToQualify": 75,
+    "password": "Free to Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "sample",
+            "link": "https://www.youtube.com/",
             "percent": 100,
             "hz": 360
         }
